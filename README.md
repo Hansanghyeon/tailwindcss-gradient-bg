@@ -1,0 +1,3 @@
+- 참고
+  - [Jordi ⌘ on Twitter: "Mix it with a gradient-bg to make your cards more interesting 👨‍🎨 https://t.co/DANquDhesX" / Twitter](https://twitter.com/jordienr/status/1680147253535670273)
+  - [Tailwind SVG Grid Background](https://gist.github.com/jordienr/abb847bc1649b3259d5aec1381583fd1)
